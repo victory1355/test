@@ -10,3 +10,6 @@ int main(int argc, char **argv)
 
 	return 0;
 }
+
+
+l am learning the concept called stage in Git.
