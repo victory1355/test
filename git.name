@@ -13,6 +13,8 @@ int main(int argc, char **argv)
 
 the difference between add and commit.
 the second time changed.
+the thrid time to alter.
+the fouth time to alter.
 
 
 l am learning the concept called stage in Git.
