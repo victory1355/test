@@ -3,3 +3,10 @@ git is free softwares
 git is powerful softwares
 
 git is distrbute system
+
+int main(int argc, char **argv)
+{
+	
+
+	return 0;
+}
