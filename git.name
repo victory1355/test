@@ -11,5 +11,8 @@ int main(int argc, char **argv)
 	return 0;
 }
 
+the difference between add and commit.
+the second time changed.
+
 
 l am learning the concept called stage in Git.
